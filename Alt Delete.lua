@@ -1,4 +1,4 @@
---LUAU
+--roblox luau
 
 local player = game:GetService("Players").LocalPlayer
 local mouse = player:GetMouse()
