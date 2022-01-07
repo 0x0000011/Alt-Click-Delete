@@ -1,3 +1,5 @@
+--LUAU
+
 local player = game:GetService("Players").LocalPlayer
 local mouse = player:GetMouse()
 local userInputService = game:GetService("UserInputService")
